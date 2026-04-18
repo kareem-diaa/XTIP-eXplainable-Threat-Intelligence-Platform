@@ -73,6 +73,17 @@ We work with organizations to onboard them through a structured pilot program. I
 
 ---
 
+## Source Code
+
+The XTIP codebase is proprietary and confidential. The source code is **not available for public disclosure** at this time.
+
+This repository serves as a public-facing reference for the project — covering platform capabilities, achievements, and contact information. All intellectual property, architecture, and implementation details remain protected.
+
+If you are a researcher, institution, or potential partner interested in collaboration, reach out through [xtip.cloud](https://xtip.cloud).
+
+> ⚠️ **Proprietary Notice:** The source code for this project is confidential and not authorized for public release. This repository is for informational purposes only.
+---
+
 ## The Problem We're Solving
 
 Egypt and the broader MENA region face a growing volume of sophisticated cyber threats — yet most organizations in the region rely on fragmented, international tools that lack local context and integrations.
